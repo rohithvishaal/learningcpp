@@ -16,3 +16,9 @@
     * Copy Brace Initialization
     * Value Initialization
     * Unused initialized variables and [[maybe_unused]]
+## [Day 3 Notes](./Day3/day3_notes.md) 
+    * Introduction to iostream
+    * cin, cout, endl
+    * How buffer is utilized in cout
+    * endl vs "\n"
+    * How cin behaves on different types of input
