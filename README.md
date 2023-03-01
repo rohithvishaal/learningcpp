@@ -30,4 +30,4 @@
 * Rules to Name an Identifier
 * Best Practices on naming an Identifier
 * Whitespace and basic formatting
-* 
+* Best Practices on formatting code
