@@ -22,3 +22,12 @@
 * How buffer is utilized in cout
 * endl vs "\n"
 * How cin behaves on different types of input
+
+## [Day 4 Notes](./Day4/day4_notes.md) 
+* Unintialized Variables and Undefined Variables
+* Undefined Behaviour
+* Keywords
+* Rules to Name an Identifier
+* Best Practices on naming an Identifier
+* Whitespace and basic formatting
+* 
