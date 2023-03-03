@@ -10,6 +10,7 @@ int main(){
     // Using descriptive and short variable names for better readability
     // is always recommended
     int userAge{};
+    cin >> userAge;
     int userAgeInDogYears{};
     userAgeInDogYears = ((userAge - 2) * 4) + 22;
 
