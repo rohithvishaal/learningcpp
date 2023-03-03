@@ -31,3 +31,30 @@
 * Best Practices on naming an Identifier
 * Whitespace and basic formatting
 * Best Practices on formatting code
+
+## [Day 5 Notes](./Day5/day5_notes.md) 
+* Introduction to Literals and Operators
+    * Unary
+    * Binary
+    * Ternary
+    * Nullary
+* Chaining Operators
+* Return Values and Side Effects
+* Introduction to expressions
+    * Statements
+    * Expression Statements
+    * Useless Expressions
+
+## [Day 6 Notes](./Day6/day6_notes.md)
+* Introduction to functions
+    * user-defined functions
+        * function header
+        * function body
+    * Calling functions more than once
+    * Functions calling functions calling functions
+    * Nested functions are not supported
+* Function return values ( value-returning functions )
+    * Return Values
+    * cstlib for EXIT_SUCCESS and EXIT_FAILURE
+    * Undefined behaviour in functions
+    * Implicit return of main function
