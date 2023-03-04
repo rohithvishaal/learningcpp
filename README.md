@@ -58,3 +58,7 @@
     * cstlib for EXIT_SUCCESS and EXIT_FAILURE
     * Undefined behaviour in functions
     * Implicit return of main function
+## [Day 7 Notes](./Day7/day7_notes.md)
+* Void Functions
+* Function Parameters and Arguments
+* Intro to Local Scope
