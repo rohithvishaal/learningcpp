@@ -62,3 +62,35 @@
 * Void Functions
 * Function Parameters and Arguments
 * Intro to Local Scope
+
+## [Day 8 Notes](./Day8/day8_notes.md)
+* Using Functions Effectively
+    * Organization
+    * Reusability
+    * Testing
+    * Extensibility
+    * Abstraction
+* Forward declarations and definitions
+    * Declarations vs Definitions
+        * Function Prototype
+        * Definition
+        * Declaration
+        * Pure Declaration
+        * Initializer
+* Programs with multiple code files
+    * Linking multiple .cpp files
+* Naming collisions and namespaces
+    * global namespace
+    * std namespace
+    * :: scope resolution operator
+    * using directive
+* Intro to preprocesor
+    * Translation Unit
+    * Macros
+    * #define
+    * #include
+    * Conditional Compilation 
+        * #ifdef
+        * #ifndef
+        * #if 0
+    * Scope of #define
