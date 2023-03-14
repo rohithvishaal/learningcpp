@@ -94,3 +94,22 @@
         * #ifndef
         * #if 0
     * Scope of #define
+
+## [Day 9 Notes](./Day9/day9_notes.md)
+* Header files
+    * Writing our own header files
+    * Angled brackets vs double quotes
+    * why iostream doesn't have .h?
+    * Including header files from other directories
+    * #include order of files
+    * Header files best practices
+* Header guards
+    * The duplicate definition problem
+    * #pragma once
+* How to design your first programs
+    1. Define your goal
+    2. Define requirements
+    3. Define your tools, targets and backup plans
+    4. Break hard problems into easy problems
+    5. Figure out the sequence of events
+    
