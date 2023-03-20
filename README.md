@@ -144,7 +144,7 @@
     * Unsigned Integer Overflow
     * When to use unsigned numbers?
 * Fixed-width integers and size_t
-    * > # - 8, 16, 32, 64
+    * > \# - 8, 16, 32, 64
     * std::int#_t
     * std::uint#_t
     * Fast and least integers

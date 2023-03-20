@@ -38,7 +38,7 @@
 > **[Click Here](https://www.learncpp.com/cpp-tutorial/unsigned-integers-and-why-to-avoid-them/)**
 
 # Fixed-width integers and size_t
-* > # - 8, 16, 32, 64
+* > \# - 8, 16, 32, 64
 * std::int#_t
 * std::uint#_t
 * Fast and least integers
